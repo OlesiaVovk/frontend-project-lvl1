@@ -22,3 +22,8 @@
 *Показываем игроку ряд чисел, образующий арифметическую прогрессию, заменив любое из чисел двумя точками. Игрок должен определить это число.*
 
 [![asciicast](https://asciinema.org/a/Erym94WsFeUObAHouwORwYW67.svg)](https://asciinema.org/a/Erym94WsFeUObAHouwORwYW67)
+
+#### Игра "Простое ли число?"
+*Показываем игроку случайное число. И ему нужно ответить yes, если число простое, или no — если нет:*
+
+[![asciicast](https://asciinema.org/a/VscaLJ95UyuuUbTN1pRzEYdXB.svg)](https://asciinema.org/a/VscaLJ95UyuuUbTN1pRzEYdXB)
