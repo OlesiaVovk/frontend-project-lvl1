@@ -20,7 +20,7 @@ const baseGame = (gameTask, theGame) => {
     }
     console.log('Correct!');
   }
-  console.log(`Congratulations ${userName}!`);
+  console.log(`Congratulations, ${userName}!`);
 };
 
 export default baseGame;
