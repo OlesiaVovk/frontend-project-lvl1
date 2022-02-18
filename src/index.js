@@ -5,7 +5,7 @@ export const gamesRounds = 3;
 const baseGame = (gameTask, theGame) => {
   console.log('Welcome to the Brain Games!');
   const userName = readlineSync.question('May I have your name? ');
-  console.log(`Hi, ${userName}!`);
+  console.log(`Hello, ${userName}!`);
   console.log(`${gameTask}`);
 
   for (let i = 0; i < gamesRounds; i += 1) {
